@@ -1,0 +1,300 @@
+MIRAI SCHOOL OF TECHNOLOGY
+Student Policy Handbook 2026
+
+CONTENTS
+Policies Included
+Academic Evaluation Policy
+Attendance Policy
+Examination and Malpractice Policy
+No dues & Admit card policy
+Code of Conduct Policy
+Clubs and Events Policy
+Grievance Redressal Policy
+
+ACADEMIC EVALUATION POLICY
+Purpose
+Mirai School of Technology defines the evaluation framework, grading system, and academic progression rules for all programs offered at the institution through this policy.
+
+Intent and Scope
+This policy establishes a rigorous, continuous, and practical assessment framework designed specifically for our B.Tech students. It ensures that foundational and advanced engineering modules—such as Design and Analysis of Algorithms (DAA) and Advance Web Development—are evaluated with a strong emphasis on hands-on coding, consistent practice, and project building. The standards outlined in this document are effective immediately and apply to the current academic year.
+
+Evaluation Components & Weightage
+Based on the institutional standards, courses are divided into continuous evaluation, attendance, and final examinations. The specific weightages and criteria differ slightly based on the practical requirements of the subject.
+*The evaluation scheme is specified for each course as per the respective course faculty's instruction.
+
+Standard Attendance Evaluation
+Attendance carries a 10% weightage across all courses. Marks are awarded based on the following tier system:
+90% and above: 10 marks
+80% - 89.99%: 8 marks
+75% - 79.99%: 6 marks
+60% - 74.99%: 4 marks
+Below 60%: 0 marks (Debarred from the Final Exam for that subject)
+
+Grading & CGPA Calculation
+Final grades for each subject are calculated by aggregating the weighted marks from continuous evaluation, attendance, biweekly tests/projects, and final exams into a cumulative score out of 100.
+The total composite percentage directly correlates to the student's final grade point and subsequent CGPA for the academic term.
+Students must secure a minimum aggregate score as defined by the academic council to pass the course.
+
+Promotion / Backlog Rules
+Academic progression at Mirai School of Technology requires strict adherence to attendance and continuous evaluation standards.
+Debarment Policy: Students falling below the 75% attendance threshold in any subject will receive 0 marks for the attendance component and will be strictly debarred from appearing in the Final Exam for that subject.
+Medical Exemptions: A valid, verified medical certificate only provides a maximum of 15% weightage buffer in attendance criteria from debarment. It does not entirely waive the attendance requirement.
+Continuous Evaluation Deficits: Failure to complete mandatory course-specific continuous evaluation criteria — such as coding-practice targets or capstone/project submissions defined in the relevant course syllabus — will result in a total loss of the respective component's weightage, severely impacting the student's ability to clear the subject and potentially resulting in an academic backlog.
+
+ATTENDANCE POLICY
+Purpose
+This policy establishes the minimum attendance requirements for students and the conditions under which attendance relaxation will be granted.
+
+Minimum Attendance Requirement
+Every student shall maintain a minimum of 75% attendance in both Mirai Track & University Track during the semester.
+Students with attendance below the prescribed limit will be debarred from appearing in examinations, unless attendance is condoned by the competent authority on valid grounds. Attendance shall be recorded for every scheduled lecture, laboratory, tutorial, and other mandatory academic activity.
+Students are solely responsible for monitoring and maintaining their attendance.
+
+Attendance Regularisation
+Attendance regularisation will be considered only in the following cases:
+Approved Medical Leave supported by valid medical documents.
+Approved Leave for representing Mirai School of Technology (MSOT) in competitions or internships which require physical presence in industry or other academic institutes.
+Attendance relaxation is not automatic and shall be granted solely at the discretion of the authority.
+
+Process
+Students representing Mirai School of Technology in approved hackathons, competitions, conferences, workshops, research activities, industry visits, internships, or official events may receive attendance benefits subject to:
+Prior written approval along with NOC certificate is mandatory from the concerned faculties. (Please note that post facto approval will not be granted)
+Submission of supporting documents with faculties approval should be mailed to:
+Experience ID: experience@msot.org
+Campus manager ID: sundaram.mishra@msot.org
+
+Unauthorized Absence
+Absence without prior approval or valid justification shall be treated as unauthorized and marked absent.
+Proxy attendance, attendance fraud, or tampering with attendance records is strictly prohibited and may result in disciplinary action.
+
+EXAMINATION AND MALPRACTICE POLICY
+Purpose
+This policy ensures fairness, transparency, and integrity in the conduct of all examinations - across internal assessments, biweekly tests, lab practicals, and end-semester finals- whether the exam happens on campus, or online.
+
+Conduct of Examinations
+Students must carry a valid Mirai School of Technology ID card (or admit card, where issued) to every examination and produce it on request.
+Students must be seated at least 10 minutes before the scheduled start time; entry is not permitted after 20 minutes from the start of the examination, and no student may leave the examination hall in the first 30 minutes or the final 10 minutes of the session.
+Only items explicitly permitted for that examination (e.g., approved calculators, blank rough sheets stamped by the invigilator) may be kept at the desk. All bags, notes, and electronic devices- including smartwatches and phones- must be deposited at the front of the room before the exam begins.
+Invigilators are authorized to inspect any item at a student's desk, reseat students, and record observations relevant to the conduct of the examination.
+
+Unfair Means & Penalties
+"Unfair Means" (UFM) covers a range of behaviour, including — but not limited to:
+Possessing or consulting unauthorized material (written, printed, or electronic) during an examination.
+Unethical and unauthorised use of AI tools during the examination.
+Copying from, or allowing another student to copy from, one's own work.
+Impersonation, or facilitating impersonation, of a candidate.
+Communicating with another candidate or outside party during the examination through any means.
+Submitting work substantially produced by another person or by an unauthorized AI tool where such use is not permitted for that assessment.
+Tampering with answer scripts, attendance sheets, or examination records.
+Any other conduct that compromises the fairness or integrity of the examination process.
+
+Cases of suspected unfair means will be reported by the invigilator on a standard incident form, countersigned by the student where possible, and referred to the Examination Committee. Penalties are assessed by severity and are proportionate:
+Strict Actions will be taken :
+Cancellation of that paper's result; the student may be required to reappear, subject to Examination Committee review.
+Cancellation of results for the examination cycle, suspension from the institution for a defined period, and referral to the partner institution / Disciplinary Committee.
+Withdrawal of the scholarship awarded to the student.
+Repeat offences are treated as an aggravating factor and may attract escalated penalties, including expulsion in extreme or repeat cases.
+
+Revaluation:
+Students may apply for revaluation or re-checking of an answer script within the first seven (7) working days of result declaration.
+Revaluation covers checking for totalling errors, unevaluated answers, and adherence to the marking scheme; it does not permit a general re-argument of awarded marks for a fully evaluated answer.
+Revaluation results will ordinarily be communicated within fifteen (15) working days of application.
+
+NO DUES & ADMIT CARD POLICY
+Purpose
+This policy establishes the requirement for students to clear all outstanding dues and obtain a No Dues Certificate before the issuance of the examination admit card.
+
+Late Fee Policy
+A late fee of Rs100 per day will be applicable to students who fail to clear their outstanding dues within the stipulated fee payment timeline. The late fee will be calculated on a per-day basis until all outstanding dues, including the applicable late fee, are cleared. Students are advised to complete their fee payment within the stipulated timeline to avoid additional charges
+
+Eligibility for Admit Card
+Every student must clear all academic, administrative, library, transport, and any other outstanding dues before the scheduled examination.
+The examination admit card shall be issued only after the student has obtained a No Dues Certificate from the institute.
+
+No Dues Certificate
+The No Dues Certificate confirms that the student has fulfilled all financial and administrative obligations to the institution.
+
+Process
+Students shall initiate the No Dues process within the timeline communicated by the institution before the commencement of examinations..
+The examination admit card will be issued upon successful completion of all outstanding dues and verification of the No Dues Certificate.
+
+Exceptional Cases
+Any request for relaxation due to exceptional circumstances shall be considered only upon written application and shall be subject to the approval of the competent authority.
+Grant of relaxation, if any, shall be purely at the discretion of the institution and shall not constitute a precedent for future cases.
+
+CODE OF CONDUCT POLICY
+Purpose
+This policy defines the standards of behavior expected of every Mirai School of Technology student and staff member. It applies in addition to the rules of the partner universities where students are enrolled; where both apply, the stricter standard prevails.
+
+General Code of Conduct
+Conduct yourself with honesty, respect, and professionalism in classrooms, hostels, online platforms, and at all Mirai activities including hackathons, industry visits, and internships.
+Students represent Mirai in every interaction and are expected to uphold its reputation, including on social media and official communication channels.
+Carry your ID on campus and comply with reasonable instructions of faculty, administration, and partner-campus authorities.
+The standard day-to-day dress code is Smart Casual.
+Clothing should be decent, presentable, and suitable for a professional office environment.
+Ripped or distressed clothing, excessively revealing attire, flip-flops, gym wear, and clothing with offensive slogans or graphics are not permitted.
+Students attending hackathons, external competitions, interviews and other student events are required to wear strictly formal attire (Indian or Western formals).
+Personal grooming and hygiene are expected to be maintained at all times
+
+Prohibited Activities
+Possession or consumption of alcohol, tobacco, or prohibited substances on campus or at any Mirai activity.
+Impersonation, forgery, or misuse of the Mirai name, logo, or student identity.
+Unauthorized commercial activity, gambling, or any unlawful act on campus or at Mirai events.
+Any conduct, online or offline, that brings disrepute to Mirai or its partner institutions.
+
+Disciplinary Committee & Process
+A Disciplinary Committee constituted by Mirai administration shall examine reported violations, giving the concerned individual a fair opportunity to be heard.
+Actions will include warning, suspension from Mirai activities, withholding of certifications, or referral to the partner institution in proportion to the misconduct.
+
+CLUBS AND EVENTS POLICY
+Purpose
+Mirai School of Technology encourages students to form clubs and organize events, hackathons, and competitions that build practical skills and represent the institution. As a new-age school of technology, our goal is to foster a dynamic campus ecosystem that champions innovation, leadership, and holistic student development. This policy outlines the official framework for the formation, operation, and governance of all student-led organizations. It establishes a clear operational bridge between students, faculty, and management, ensuring that all club activities, events, and budgetary requests are executed with professionalism, accountability, and alignment with the institution’s core values.
+
+Club Formation & Recognition
+1. Existing Recognized Clubs Mirai School of Technology currently recognizes and supports four foundational student clubs:
+Coding & Tech Club: Focused on software development, algorithmic programming, and hackathons. To accommodate specialized technical domains, this club may establish distinct subsidiary societies under its umbrella, such as a Cybersecurity Society, or a Machine Learning and Artificial Intelligence (ML & AI) Society.
+Entrepreneurship Club: Dedicated to startups, innovation, and business acumen.
+Sports Club: Responsible for athletic events, intramurals, and inter-college sports competitions.
+Cultural Club: Centered on the arts, music, dance, and cultural festivals.
+
+2. Proposing New Clubs
+Student Support Requirement: Students interested in establishing a new student organization must demonstrate significant interest from the student body. A new club can be officially proposed if at least 40% of the total batch students are in favor of its creation.
+Submission Process: A formal proposal detailing the club's mission, proposed activities, structural plan, and a verifiable list of supporting student signatures (meeting the 40% threshold) must be submitted to the designated Faculty Coordinator for initial review before being passed to Management for final recognition.
+
+3. Membership and Induction
+Selection Process: Student members will be inducted and appointed directly by the respective club’s leadership.
+Criteria: Induction must be based on a transparent process of skill evaluations, assignments, and interviews to ensure that incoming members align with the club's objectives.
+
+4. Leadership and Elections
+Core Office Bearers: Each club will be led by three primary office bearers: President, Vice President, and Treasurer.
+Annual Elections: These leadership positions will be contested and filled through annual club elections to ensure a democratic and fair transition of power each academic year.
+
+Event Approval Workflow
+To ensure quality and feasibility, all events, competitions, and hackathons must follow a structured four-step approval workflow:
+1. Proposal & Budget Creation: The club’s office bearers (led by the President and Treasurer) must draft a comprehensive event proposal and a detailed, itemized budget.
+2. Submission to Faculty Coordinator: The finalized draft is officially submitted to the designated Faculty Coordinator for the respective club.
+3. Revision & Faculty Review: The Faculty Coordinator reviews the proposal for institutional alignment, feasibility, and safety. The coordinator will work with the students to revise and refine the plan and budget as necessary.
+4. Management Sanction: Once the Faculty Coordinator is satisfied and grants preliminary approval, the Faculty Coordinator (not the students) will forward the final proposal and budget to the Management for ultimate approval and fund disbursement.
+
+Budget & Conduct Guidelines
+1. Faculty as the Point of Contact (POC) The Faculty Coordinator serves as the official liaison between the student body and the college Management. Students are not to bypass the faculty to approach Management directly regarding club operations or finances.
+
+2. Financial Protocols
+Faculty-First Approval: Any budget proposed by the students must be strictly reviewed and approved by the Faculty Coordinator first.
+Management Conveyance: Only the Faculty Coordinator is authorized to convey the approved budget to Management for final financial clearance.
+Accountability: The club Treasurer is responsible for maintaining transparent records of all expenditures, which are subject to audit by the Faculty Coordinator post-event.
+
+3. General Conduct
+All club activities must reflect the innovative and professional spirit of Mirai School of Technology.
+Clubs are expected to operate inclusively, maintaining a safe and respectful environment for all participants during meetings, events, and external representations.
+
+GRIEVANCE REDRESSAL POLICY
+Purpose
+This policy provides a fair, transparent, confidential, and timely mechanism for students and staff to raise and resolve grievances related to academic, administrative, workplace, or campus matters. Mirai School of Technology is committed to addressing all grievances impartially and without retaliation.
+
+Grievance Redressal Committee
+A Grievance Redressal Committee (GRC) shall be constituted by the administration to receive, review, and resolve grievances. The Committee shall:
+Ensure fair and unbiased review of all complaints.
+Maintain confidentiality throughout the process.
+Recommend appropriate corrective or disciplinary action, where required.
+Ensure compliance with institutional policies.
+
+Filing & Escalation Process
+Grievances may be submitted through the student help desk : studenthelpdesk@msot.org, keeping campus manager’s email address in cc.
+An acknowledgment will be shared within 7 working days.
+The Committee shall review the grievance and communicate its decision after due examination.
+If the complainant is dissatisfied, the matter may be escalated to the Head of Institution for final review.
+
+Resolution Timelines & Records
+Every effort shall be made to resolve grievances within 15 working days.
+All grievances, actions taken, and decisions shall be documented and maintained confidentially by the administration.
+The institution may periodically review grievance records to improve policies and processes.
+
+MIRAI SCHOOL OF TECHNOLOGY
+MEDICAL LEAVE, DUTY LEAVE & ATTENDANCE DEVIATION POLICY
+Applicable to all students across HI-Tech, Ratnam and JUJ campuses
+
+1. Purpose
+This policy sets out the process by which students may request Medical Leave (for illness, injury or treatment) or Duty Leave for participation in events, competitions and other official activities. It also defines the process for rectifying any deviation in attendance records that is not covered by a Medical or Duty Leave request.
+It defines the documents required, the timelines within which requests and rectifications must be raised, the levels of escalation available to students, and the consequences of non-compliance.
+The intent is to be fair and supportive to students who face genuine medical, event-related or attendance-related situations, while keeping the process disciplined so that attendance records remain accurate and consistent for everyone.
+
+2. Definitions
+Medical Leave — an absence from classes due to illness, injury or medical treatment, supported by valid medical documents.
+Duty Leave (DL) — an absence from classes for the purpose of participating in an event, competition, workshop or other official activity on behalf of the college.
+Sessions Missed — the total number of scheduled classes, labs and tutorials missed during the leave period, computed as per the timetable.
+Attendance Deviation — any discrepancy between what a student believes their attendance should be and what is recorded on the system, which is not covered by a Medical or Duty Leave request (for example, a session that the student attended but which has been marked absent, or vice versa).
+
+3. Documents Required (for Medical / DL requests)
+Depending on the type of leave, the following documents must be submitted:
+Type of Leave: Medical Leave
+Documents Required:
+- Medical certificate issued by a registered medical practitioner
+- Doctor’s prescription related to the illness / injury
+- Discharge summary, in case of hospitalisation
+- Any other supporting document (test reports, referral notes, etc.)
+
+Type of Leave: Duty Leave (DL) for Event / Competition
+Documents Required:
+- Official invitation / registration letter for the event
+- Event schedule or agenda, mentioning your dates of participation
+- Participation certificate (to be submitted after the event)
+- Any other supporting document confirming your attendance
+
+4. 7-Day Submission Rule (for Medical / DL requests)
+All supporting documents — for both Medical Leave and Duty Leave — must be submitted within 7 days of the event or medical situation. Requests submitted after 7 days will not be accepted.
+For Medical Leave: the 7-day period is counted from the last day of the illness / treatment, or from the date of consultation for short-term issues.
+For Duty Leave: the 7-day period is counted from the last day of the event / competition.
+Requests submitted after 7 days will be treated as regular absence — no relaxation will be granted, even if the medical or event was genuine.
+Advance intimation (before the leave) is strongly encouraged, but does not replace the requirement to submit documents within 7 days after the event / illness.
+
+5. Consequences of Non-Compliance
+If documents are not submitted within the 7-day window, the absence will be marked as a regular absence and will count against your attendance for the respective subjects.
+Students falling below the required 75% attendance in any subject will be dealt with as per the standard attendance and debarment policy.
+The medical leverage cap of up to 15% (where applicable per campus policy) is applied only to verified medical cases where documents have been submitted within the 7-day window.
+
+6. How to Submit
+Submit the documents through mail to your respective Campus Manager (details in Section 8 below).
+Ensure documents are signed and dated by the issuing authority (doctor, event organiser, etc.).
+Retain a copy of the submitted documents and a note of the date of submission for your own records.
+Where a digital submission channel is enabled at your campus, follow the instructions shared by your Campus Manager.
+
+7. Verification & Approval
+The Campus Manager will verify the documents against the dates of your absence.
+Once verified, your request will be entered into the Medical & DL records for your campus, and the approval will be communicated to you.
+If the documents are found to be incomplete, incorrect or forged, the request will be rejected and, in case of forgery, further disciplinary action may follow.
+
+8. Point of Contact & Escalation (Medical / DL)
+For any query, clarification or to submit your documents for Medical or Duty Leave, please connect with the Campus Manager for your campus:
+Campus: HI-Tech | Campus Manager (Primary Contact): Sundaram Sir | How to Reach: In person at the CM office / campus email
+Campus: Ratnam | Campus Manager (Primary Contact): Yashaswini Ma’am | How to Reach: In person at the CM office / campus email
+Campus: JUJ (Jagannath University) | Campus Manager (Primary Contact): Dolly Ma’am | How to Reach: In person at the CM office / campus email
+
+Escalation ladder for Medical / DL matters
+If your Medical or DL request is not resolved at the CM level, or if you have any concern regarding the decision taken, you may escalate as per the following ladder. Please attempt each level in order and allow reasonable time before moving to the next.
+Level: L1 | Whom to Approach: Campus Manager (CM) — Sundaram Sir (HI-Tech) / Yashaswini Ma’am (Ratnam) / Dolly Ma’am (JUJ) | When to Escalate: First point of contact for all Medical / DL requests, questions or clarifications.
+Level: L2 | Whom to Approach: Dr. Abhilash Karakoti (abhilash.karakoti@msot.org) | When to Escalate: If the matter is not resolved at the CM level, or if the concern is regarding the CM’s decision.
+Level: L3 | Whom to Approach: Mr. Arpit Sarda (arpit@msot.org) | When to Escalate: For final escalation, if the matter remains unresolved even after L2.
+
+9. Attendance Deviation (Other than Medical / DL)
+For any deviation in attendance which is not covered by a Medical or Duty Leave request — for example, a class you actually attended but which has been marked absent, or any other mistake in the recorded attendance — the following process applies:
+The student must raise the discrepancy and get it rectified within 7 days of the date on which the deviation was noticed / recorded. Requests raised after 7 days will not be entertained.
+The student should first approach the respective subject faculty of the class in question and request a correction of the record.
+If the subject faculty is unable to rectify the discrepancy, the student should escalate the matter as per the escalation ladder below.
+Kindly do not raise the same matter with multiple people simultaneously — please follow the ladder in order.
+
+Escalation ladder for Attendance Deviation
+Level: L1 | Whom to Approach: Respective Subject Faculty | When to Escalate: First step — raise the attendance discrepancy directly with the faculty of the concerned subject.
+Level: L2 | Whom to Approach: Campus Manager (CM) | When to Escalate: If the subject faculty is unable to rectify the discrepancy, escalate to your Campus Manager.
+Level: L3 | Whom to Approach: Dr. Abhilash Karakoti — Senior Program Manager | When to Escalate: If the CM is unable to resolve the discrepancy within the 7-day window.
+Level: L4 | Whom to Approach: Mr. Arpit Sarda | When to Escalate: For final escalation, if the matter remains unresolved even after L3.
+
+10. General Guidelines for Students
+Wherever possible, inform your Campus Manager in advance about a planned event, or as soon as possible in case of an unplanned medical situation.
+For extended medical situations, share periodic updates with your Campus Manager — do not wait till the end to inform.
+Do not miss consecutive classes without any communication to your Campus Manager or the concerned faculty.
+Understand that the 7-day rule is meant to keep the process fair for everyone — late submissions and late rectification requests cannot be accepted, however genuine the reason, once the window has closed.
+When raising a concern or an escalation, please do so through a single, well-articulated communication. Sending the same email multiple times in a short span does not accelerate the response.
+
+11. Effective Date
+This policy is effective immediately upon publication and supersedes all previous informal practices with respect to Medical Leave, Duty Leave and attendance rectification for students. It applies uniformly to all students across all Mirai campuses.
